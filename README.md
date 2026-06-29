@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:4A00E0,100:8E2DE2&height=210&section=header&text=Osini%20Liyanage&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%C2%B7%20Full-Stack%20%26%20AI%2FML&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:4A00E0,100:8E2DE2&height=200&section=header&text=Osini%20Liyanage&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Final-Year+Software+Engineering+Undergraduate;Full-Stack+Developer+%7C+Java+%26+React+Native;Externship+%40+Inivos+Global+(IFS+Partner);Exploring+AI%2FML+%2B+Cloud+(Azure)" alt="Typing SVG" />
@@ -221,32 +221,17 @@ Artificial Intelligence & Machine Learning Courses — 2025 – 2026
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OsiniLiyanage&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=8B5CF6" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsiniLiyanage&theme=transparent&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsiniLiyanage&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C4B5FD" width="60%"/>
-
-</div>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OsiniLiyanage&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
-
-</div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OsiniLiyanage&theme=react-dark&hide_border=true&bg_color=00000000&color=A78BFA&line=8B5CF6&point=C4B5FD" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OsiniLiyanage&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true" width="95%"/>
 
 </div>
+
+---
+
 
 ## 🐍 Contribution Snake
 
@@ -257,8 +242,6 @@ Artificial Intelligence & Machine Learning Courses — 2025 – 2026
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OsiniLiyanage/OsiniLiyanage/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/OsiniLiyanage/OsiniLiyanage/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<!-- ⚠️ This needs a one-time GitHub Action set up in this repo to generate the SVG. See snake-workflow.yml provided alongside this README — once added, the image above will render automatically. -->
 
 </div>
 
